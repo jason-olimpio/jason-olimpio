@@ -4,9 +4,9 @@ Hi 👋 My name is Jason
 Front-end Developer
 -------------------
 
-For the past year, I’ve been building web and mobile interfaces that turn product ideas into clean, responsive, and user-friendly experiences. I care about writing readable, maintainable code and pay close attention to the little details that make a UI feel just right.
+For the past year, I’ve been designing and building web and mobile interfaces that turn product ideas into clean, responsive, and easy-to-use experiences. I care about writing code that’s clear and maintainable, and I pay attention to the small details that make an interface feel polished and intuitive.
 
-I also have a solid foundation in back-end development, which helps me understand how data and APIs fit together — so the interfaces I build aren’t just polished, but reliable and well-structured.
+I also bring a solid back-end foundation, which helps me understand how data and APIs connect behind the scenes. That means the interfaces I build don’t just look good — they’re also reliable, thoughtful, and built on a strong structure.
 
 * 🌍  I'm based in Amsterdam
 * ✉️  You can contact me at [olimpiojason@gmail.com](mailto:olimpiojason@gmail.com)
